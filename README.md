@@ -11,9 +11,6 @@
 ### Desarrollo de todo el proyecto: 
 ~6 meses
 
-### Video demostrativo: 
-https://github.com/user-attachments/assets/17aaace7-e226-4a94-91dd-c7959dbb14ec
-
 ### Tecnologías que usé
 
 - Python
@@ -28,6 +25,9 @@ https://github.com/user-attachments/assets/17aaace7-e226-4a94-91dd-c7959dbb14ec
 - HTTP
 - Zeroconf
 - PyInstaller
+
+### Video demostrativo: 
+https://github.com/user-attachments/assets/17aaace7-e226-4a94-91dd-c7959dbb14ec
 
 El proyecto se estructuró en dos aplicaciones principales: **Auri.py** y **Server.py (Obsoleto)**
 
