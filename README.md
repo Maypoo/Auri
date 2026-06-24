@@ -2,7 +2,7 @@
 
 ### ¿Qué es Auri?
 
-**Auri** fue un proyecto de egreso para la **Escuela Técnica El Pinar (UTU)** en mi segundo año de bachillerato. Es un asistente virtual diseñado para interactuar mediante voz y funcionar tanto en computadora como en un sistema físico basado en ESP32.
+**Auri** fue mi proyecto final de segundo de bachillerato en la **Escuela Técnica El Pinar (UTU)**. Es un asistente virtual diseñado para interactuar mediante voz y funcionar tanto en computadora como en un sistema físico basado en ESP32.
 
 <img width="884" height="515" alt="image" src="https://github.com/user-attachments/assets/a1fc046a-ada1-4f0e-acfe-1f0a477158a6" />
 
