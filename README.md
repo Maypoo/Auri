@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Auri** fue un proyecto de egreso para la **Escuela Técnica El Pinar (UTU)** en mi segundo año de bachillerato. Era un asistente virtual, diseñado para interactuar mediante voz y funcionar tanto en un entorno de computadora como en un sistema físico.
+**Auri** fue un proyecto de egreso para la **Escuela Técnica El Pinar (UTU)** en mi segundo año de bachillerato. Es un asistente virtual diseñado para interactuar mediante voz y funcionar tanto en un entorno de computadora como en un sistema físico.
 
 ### Desarrollo de todo el proyecto: 
 ~6 meses
