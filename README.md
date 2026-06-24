@@ -1,6 +1,6 @@
 ### ¿Como usar Auri.exe?:
 1. Asegurarse de tener un micrófono y parlante predeterminado en la computadora.
-2. Descargar y abrir **Auri.exe**
+2. Descargar y abrir [**Auri.exe**](https://github.com/Maypoo/Auri/releases/download/v1.0.0/Auri.exe)
 3. Decir "Auri" y esperar el sonido de activación.
 4. Realizar cualquier consulta.
 
