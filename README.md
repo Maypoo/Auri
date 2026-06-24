@@ -8,9 +8,6 @@
 
 **Auri** fue un proyecto de egreso para la **Escuela Técnica El Pinar (UTU)** en mi segundo año de bachillerato. Es un asistente virtual diseñado para interactuar mediante voz y funcionar tanto en un entorno de computadora como en un sistema físico.
 
-### Desarrollo de todo el proyecto: 
-~6 meses
-
 ### Video demostrativo: 
 https://github.com/user-attachments/assets/17aaace7-e226-4a94-91dd-c7959dbb14ec
 
@@ -69,3 +66,6 @@ El sistema final tenía procesamiento de audio en tiempo real y control de estad
 Como parte de distribución del proyecto, la versión de escritorio (Auri.py) la compilé en un archivo ejecutable (.exe) usando PyInstaller el cual se puede seguir usando hoy en día. Esto permite su uso en cualquier computadora de manera intuitiva sin necesidad de instalar dependencias adicionales.
 
 Por último la arquitectura de cliente (ESP32) y el servidor (Server.py) quedó obsoleto por su mayor complejidad, dependencia de red y menor practicidad en comparación con la versión de escritorio, únicamente se usó para la presentación final del proyecto.
+
+### Desarrollo de todo el proyecto: 
+~6 meses
