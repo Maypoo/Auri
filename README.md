@@ -1,4 +1,4 @@
-# Auri — Asistente de voz con IA (Python + ESP32)
+# Auri - Asistente de voz con IA (Python + ESP32)
 
 ### ¿Qué es Auri?
 
