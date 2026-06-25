@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/17aaace7-e226-4a94-91dd-c7959dbb14ec
 - Lenguaje: Python
 - IA y voz: Mistral AI, Vosk, gTTS
 - Audio: Sounddevice, Pygame
-- Hardware: ESP32
+- Hardware: ESP32, Micrófono I2S (INMP441), Amplificador I2S (MAX98357A), Parlante, Potenciómetro
 - Redes: TCP, UDP, HTTP, Zeroconf
 - Distribución: PyInstaller
 
